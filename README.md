@@ -3,7 +3,7 @@
     
 Dataset
 ===
-Abstract and Full-text datasets listed [here](https://ftp.ncbi.nlm.nih.gov/pubmed/). It includes the following files:
+Abstract and Full-text datasets listed [here](data). It includes the following files:
 
 + Whole corpus datasets
 + Experimental 8,000/2,000 datasets
