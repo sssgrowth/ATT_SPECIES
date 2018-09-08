@@ -10,7 +10,7 @@ Abstract and Full-text datasets listed [here](https://drive.google.com/drive/fol
 + Predefined and extended species
 
 PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)  
-  ![icon](./icon/pubmed.png  "icon")
+ <img src="./icon/pubmed.png" width="200">
 
 Updating...
 ===
