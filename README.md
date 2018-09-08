@@ -3,7 +3,7 @@
     
 Dataset
 ===
-Abstract and Full-text datasets listed [here](https://drive.google.com/drive/folders/1VIHEbRtPeWo66L6zaEjyv30qizC_fdQB?usp=sharing). It includes the following files:
+Abstract and Full-text datasets are listed [here](https://drive.google.com/drive/folders/1VIHEbRtPeWo66L6zaEjyv30qizC_fdQB?usp=sharing). It includes the following files:
 
 + Whole corpus datasets
 + Experimental 8,000/2,000 datasets
