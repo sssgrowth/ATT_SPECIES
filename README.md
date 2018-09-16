@@ -12,7 +12,7 @@ Abstract and Full-text datasets are listed [here](https://drive.google.com/drive
 
 The pretrained [GloVe.PubMed.200d](d)  
 PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)  
- <img src="./icon/pubmed.png" width="200">
+ <img src="./icon/pubmed.png" width="150">  <img src="./icon/wiki.png" width="80">
 
 ### Usage
 ```
