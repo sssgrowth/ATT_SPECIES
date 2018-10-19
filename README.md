@@ -14,7 +14,7 @@ Abstract and Full-text datasets are listed [here](https://drive.google.com/drive
 	+ implicit inference: abstract (train/test set), full-text (train/test set)
 + Predefined (23) and extended (64) species
 
-This data set is relativly large. We will upload the rest part on the Google Drive.
+This data set is relativly large. We uploaded it on the Google Drive.
 
 The pretrained [GloVe.PubMed.200d](d)  
 PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)  
