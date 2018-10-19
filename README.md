@@ -8,11 +8,20 @@ Abstract and Full-text datasets are listed [here](https://drive.google.com/drive
 
 + Whole corpus datasets
 + Experimental 8,000/2,000 datasets
-+ Predefined and extended species
+	+ explicit extraction: abstract (train/test set), full-text (train/test set)
+	+ implicit inference: abstract (train/test set), full-text (train/test set)
++ Predefined (23) and extended (64) species
+
+This data set is relativly large. We will upload the result part on the Google Drive.
 
 The pretrained [GloVe.PubMed.200d](d)  
 PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)  
  <img src="./icon/pubmed.png" width="150">  <img src="./icon/wiki.png" width="80">
+ 
+### Scope
+This system provide three mode: the explicit extraction mode, the implicit inference mode and increment mode.  
+This system is adaptive to different demands. If researchers only care about the predefined species, they can run the system in the extraction mode. If researchers want to infer some literature that didn’t explicitly mention the species, they can run the system in the inference mode. If researchers are interested in discovering what other species are involved, they can run the system in the increment mode. 
+
 
 ### Usage
 ```
