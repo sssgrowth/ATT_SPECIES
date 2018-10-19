@@ -18,7 +18,7 @@ This data set is relativly large. We will upload the result part on the Google D
 
 The pretrained [GloVe.PubMed.200d](d)  
 PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)  
- <img src="./icon/pubmed.png" width="150">  <img src="./icon/wiki.png" width="80">
+ <img src="./icon/pubmed.png" width="150">  <img src="./icon/wiki.png" width="80"><img src="./icon/pubmedcentral.jpg" width="110">
  
 ### Who can use?
 Users can define any interested species. This system might be helpful to different domains, i.e. the brain science, cell line, gene/protein, disease, chemicals, etc. This system provides three modes: the explicit extraction mode, the implicit inference mode and the increment mode.  
