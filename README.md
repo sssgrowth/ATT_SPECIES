@@ -7,6 +7,8 @@ Here is the project [page](https://sssgrowth.github.io/ATT_SPECIES/).
 Abstract and Full-text datasets are listed [here](https://drive.google.com/drive/folders/1VIHEbRtPeWo66L6zaEjyv30qizC_fdQB?usp=sharing). It includes the following files:
 
 + Whole corpus datasets
+	+ explicit extraction: abstract (train/test set), full-text (train/test set)
+	+ implicit inference: abstract (train/test set), full-text (train/test set)
 + Experimental 8,000/2,000 datasets
 	+ explicit extraction: abstract (train/test set), full-text (train/test set)
 	+ implicit inference: abstract (train/test set), full-text (train/test set)
