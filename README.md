@@ -21,7 +21,7 @@ PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)
  <img src="./icon/pubmed.png" width="150">  <img src="./icon/wiki.png" width="80">
  
 ### Who can use?
-Users can define any interested species. This system can be applied to different domains, i.e. the brain science, cell line, gene/protein, disease, chemicals, etc. This system provides three modes: the explicit extraction mode, the implicit inference mode and the increment mode.  
+Users can define any interested species. This system might be helpful to different domains, i.e. the brain science, cell line, gene/protein, disease, chemicals, etc. This system provides three modes: the explicit extraction mode, the implicit inference mode and the increment mode.  
 It is adaptive to different demands. If researchers only care about the predefined species, they can run the system in the extraction mode. If researchers want to infer some literature that didn’t explicitly mention the species, they can run the system in the inference mode. If researchers are interested in discovering what other species are involved, they can run the system in the increment mode. 
 
 
