@@ -1,4 +1,4 @@
-## SPECIES EXTRACTION AND INFERENCE
+## SpeciesExplorer
 
 Here is the project [page](https://sssgrowth.github.io/ATT_SPECIES/).    
 
