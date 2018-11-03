@@ -48,5 +48,5 @@ optional arguments:
 ### Updating...
 
 * 2018-Aug-26, Abstract and Full-text dataest v0.1, initial version
-* 2018-Nov-3, Abstract and Full-text dataest v0.2
+* 2018-Nov-03, Abstract and Full-text dataest v0.2
 
