@@ -3,7 +3,7 @@
 Here is the project [page](https://sssgrowth.github.io/ATT_SPECIES/).    
 
 ### Data
-####v0.2: 
+#### v0.2: 
 [Download](https://pan.baidu.com/s/1sl-91yIlybtqjc67k67AvQ). The abstract and full-text datasets are uploaded to the Google Drive. It includes the following files:
 
 + Whole corpus datasets
@@ -14,7 +14,7 @@ Here is the project [page](https://sssgrowth.github.io/ATT_SPECIES/).
 	+ implicit inference: abstract (train/test set), full-text (train/test set)
 + Predefined (23) and extended (64) species
 
-####v0.1: 
+#### v0.1: 
 [Download](https://drive.google.com/drive/folders/1VIHEbRtPeWo66L6zaEjyv30qizC_fdQB?usp=sharing). The abstract and full-text datasets are uploaded to the Google Drive. It includes the following files:
 
 + Whole corpus datasets
