@@ -4,7 +4,7 @@ Here is the project [page](https://sssgrowth.github.io/ATT_SPECIES/).
 
 ### Data
 #### v0.2: 
-[Download](https://pan.baidu.com/s/1sl-91yIlybtqjc67k67AvQ). The abstract and full-text datasets are uploaded to the Google Drive. It includes the following files:
+[Download](https://pan.baidu.com/s/1sl-91yIlybtqjc67k67AvQ). The abstract and full-text datasets are uploaded to the Baidu Drive. It includes the following files:
 
 + Whole corpus datasets
 	+ abstract (train/dev/test set), full-text (train/dev/test set)
