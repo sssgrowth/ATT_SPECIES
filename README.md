@@ -2,6 +2,8 @@
 
 Here is the project [page](https://sssgrowth.github.io/ATT_SPECIES/).    
 
+#### As long as this paper is accepted, this toolkit can be downloaded.
+
 ### Data
 #### v0.2: 
 [Download](https://pan.baidu.com/s/1sl-91yIlybtqjc67k67AvQ). The abstract and full-text datasets are uploaded to the Baidu Yun. It includes the following files:
