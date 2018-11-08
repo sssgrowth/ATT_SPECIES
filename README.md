@@ -39,27 +39,28 @@ It provides three modes, the extraction, the inference and the exploration modes
 
 ### Usage
 ```
-usage: run.py [-h] [-m MODE] [-mp MODEL] [-q QUESTION] [-a ANSWERS] [-u USER]
-              [-f FILE] [-t TYPE] [-s SPLIT]
+usage: run.py [-h] [-m MODE] [-mp MODEL] [-u USER] [-f FILE] [-t TYPE]
+              [-s SPLIT] [-a ATTENTION]
 
-process some parser
+This list provides the options to control the runing status.
 
 optional arguments:
   -h, --help            show this help message and exit
-  -m MODE, --mode MODE  train or test
+  -m MODE, --mode MODE  The runing mode: train or test
   -mp MODEL, --model MODEL
-                        None or model path
-  -q QUESTION, --question QUESTION
-                        question path
-  -a ANSWERS, --answers ANSWERS
-                        answer path
-  -u USER, --user USER  train test inter
-  -f FILE, --file FILE  train test inter
-  -t TYPE, --type TYPE  backen,aspect
+                        Set the model path.
+  -u USER, --user USER  Different training process: train, train, test
+  -f FILE, --file FILE  The input file that users want to extract or infer
+                        species.
+  -t TYPE, --type TYPE  Select a model to run. backen, attention, exploriation
+                        ... corresponding to different models
   -s SPLIT, --split SPLIT
+                        0,1
+  -a ATTENTION, --attention ATTENTION
+                        Output the animal attention. 0,1, 0=False, 1=True
 ```
 ### Updating...
 
 * 2018-Aug-26, Abstract and Full-text dataest v0.1, initial version
-* 2018-Nov-03, Abstract and Full-text dataest v0.2
+* 2018-Nov-03, Abstract and Full-text dataest v0.2, improve the label quality manually
 
