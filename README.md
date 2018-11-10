@@ -1,6 +1,5 @@
-## SpeciesExplorer
+## SpeciesExplorer ([Project Tutorial](https://sssgrowth.github.io/SPECIESEXPLORER/))
 
-Here is the project [page](https://sssgrowth.github.io/SPECIESEXPLORER/).    
 
 #### As long as this paper is accepted, this toolkit can be downloaded.
 
