@@ -4,8 +4,17 @@ Here is the project [page](https://sssgrowth.github.io/SPECIESEXPLORER/).
 
 #### As long as this paper is accepted, this toolkit can be downloaded.
 
-### Data
-#### v0.2: 
+### Contents
+
+* [Data](#data)
+  * [v0.2](#v0.2)
+  * [v0.1](#v0.1)
+* [Who can use?](#who-can-use?)
+  * [Installation](#installation)
+* [Updating](#updating)
+
+## Data
+### v0.2: 
 [Download](https://pan.baidu.com/s/1sl-91yIlybtqjc67k67AvQ). The abstract and full-text datasets are uploaded to the Baidu Yun. It includes the following files:
 
 + Whole corpus datasets
@@ -16,7 +25,7 @@ Here is the project [page](https://sssgrowth.github.io/SPECIESEXPLORER/).
 	+ implicit inference: abstract (train/test set), full-text (train/test set)
 + Predefined (23) and extended (64) species
 
-#### v0.1: 
+### v0.1: 
 [Download](https://drive.google.com/drive/folders/1VIHEbRtPeWo66L6zaEjyv30qizC_fdQB?usp=sharing). The abstract and full-text datasets are uploaded to the Google Drive. It includes the following files:
 
 + Whole corpus datasets
@@ -32,12 +41,12 @@ The pretrained [GloVe.PubMed.200d](d)
 PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)  
  <img src="./icon/pubmed.png" width="150">  <img src="./icon/wiki.png" width="80"><img src="./icon/pubmedcentral.jpg" width="110">
  
-### Who can use?
+## Who can use?
 Users can define any interested species. This system might be helpful to different domains, i.e. the brain science, cell line, gene/protein, disease, chemicals, etc.  
 It provides three modes, the extraction, the inference and the exploration modes which are adaptive to different demands. If researchers only care about the predefined species, it can run in the extraction/inference mode. If they want to infer the species from the literature, it can run in the inference mode. If they are interested in discovering what unexpected species are involved, it can run in the exploration mode.
 
 
-### Usage
+### Installation
 ```
 usage: run.py [-h] [-m MODE] [-mp MODEL] [-u USER] [-f FILE] [-t TYPE]
               [-s SPLIT] [-a ATTENTION]
@@ -59,7 +68,7 @@ optional arguments:
   -a ATTENTION, --attention ATTENTION
                         Output the animal attention. 0,1, 0=False, 1=True
 ```
-### Updating...
+## Updating...
 
 * 2018-Aug-26, Abstract and Full-text dataest v0.1, initial version
 * 2018-Nov-03, Abstract and Full-text dataest v0.2, refine some labels
