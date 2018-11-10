@@ -9,6 +9,7 @@ Here is the project [page](https://sssgrowth.github.io/SPECIESEXPLORER/).
 * [Data](#data)
   * [v0.2](#v0.2)
   * [v0.1](#v0.1)
+  * [Biomedical Embeddings](#biomedical-embeddings)
 * [Who can use](#who-can-use)
   * [Installation](#installation)
   * [Hyperparameters](#hyperparameters)
@@ -38,7 +39,8 @@ Here is the project [page](https://sssgrowth.github.io/SPECIESEXPLORER/).
 
 The labels of training data is generated based on word occurences and rules. The labels of test/development set are manually refined.
 
-The pretrained [GloVe.PubMed.200d](d)  
+### Biomedical Embeddings
+This toolkit provides a pretrained version of [GloVe.PubMed.200d](d) embeddings for biomeidcal research.  
 PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)  
  <img src="./icon/pubmed.png" width="150">  <img src="./icon/wiki.png" width="80"><img src="./icon/pubmedcentral.jpg" width="110">
  
