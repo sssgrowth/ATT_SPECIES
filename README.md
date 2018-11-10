@@ -40,7 +40,7 @@ Here is the project [page](https://sssgrowth.github.io/SPECIESEXPLORER/).
 The labels of training data is generated based on word occurences and rules. The labels of test/development set are manually refined.
 
 ### Biomedical Embeddings
-This toolkit provides a pretrained version of [GloVe.PubMed.200d](d) embeddings for biomeidcal research.  This version is trained on the PubMed and PMC datasets for two days by the GloVe.
+This toolkit provides a pretrained version of [GloVe.PubMed.200d](d) embeddings for biomeidcal research.  This version is trained on the PubMed and PMC datasets for two days by the GloVe.  
 PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)  
  <img src="./icon/pubmed.png" width="150">  <img src="./icon/wiki.png" width="80"><img src="./icon/pubmedcentral.jpg" width="110">
  
