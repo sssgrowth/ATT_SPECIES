@@ -9,8 +9,9 @@ Here is the project [page](https://sssgrowth.github.io/SPECIESEXPLORER/).
 * [Data](#data)
   * [v0.2](#v0.2)
   * [v0.1](#v0.1)
-* [Who can use?](#who-can-use)
+* [Who can use](#who-can-use)
   * [Installation](#installation)
+  * [Hyperparameters](#hyperparameters)
 * [Updating](#updating)
 
 ## Data
@@ -41,7 +42,7 @@ The pretrained [GloVe.PubMed.200d](d)
 PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)  
  <img src="./icon/pubmed.png" width="150">  <img src="./icon/wiki.png" width="80"><img src="./icon/pubmedcentral.jpg" width="110">
  
-## Who can use?
+## Who can use
 Users can define any interested species. This system might be helpful to different domains, i.e. the brain science, cell line, gene/protein, disease, chemicals, etc.  
 It provides three modes, the extraction, the inference and the exploration modes which are adaptive to different demands. If researchers only care about the predefined species, it can run in the extraction/inference mode. If they want to infer the species from the literature, it can run in the inference mode. If they are interested in discovering what unexpected species are involved, it can run in the exploration mode.
 
