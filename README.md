@@ -2,6 +2,7 @@
 
 
 #### As long as this paper is accepted, this toolkit can be downloaded.
+SpeciesExplorer is a toolkit designed for species resarch in the biomedical area. This tutorial is a preview. The detailed descriptions are still in the making and it will soon be online.
 
 ### Contents
 
