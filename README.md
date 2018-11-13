@@ -17,7 +17,7 @@ SpeciesExplorer is a toolkit designed for species resarch in the biomedical area
 
 ## Data
 ### v0.2
-[Download](https://pan.baidu.com/s/1PY-_mxds7A_HoyWysjsxlA). The abstract and full-text datasets are uploaded to the Baidu Yun. It includes the following files:
+[Download](https://pan.baidu.com/s/1PY-_mxds7A_HoyWysjsxlA). This version of data will be accessed by an api for convenient query. The abstract and full-text datasets are uploaded to the Baidu Yun. It includes the following files:
 
 + Whole corpus datasets
 	+ abstract (train/dev/test set), full-text (train/dev/test set)
@@ -26,7 +26,7 @@ SpeciesExplorer is a toolkit designed for species resarch in the biomedical area
 	+ explicit extraction: abstract (train/test set), full-text (train/test set)
 	+ implicit inference: abstract (train/test set), full-text (train/test set)
 + Predefined (23) and extended (64) species  
-This version of data will be accessed by an api for convenient query.
+
 
 ### v0.1 
 [Download](https://drive.google.com/drive/folders/1VIHEbRtPeWo66L6zaEjyv30qizC_fdQB?usp=sharing). The abstract and full-text datasets are uploaded to the Google Drive. It includes the following files:
