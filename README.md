@@ -9,9 +9,6 @@ This project contains the experimental datasets. This is a preview version of th
   * [v0.2](#v0.2)
   * [v0.1](#v0.1)
   * [Biomedical Embeddings](#biomedical-embeddings)
-* [Who can use](#who-can-use)
-  * [Installation](#installation)
-  * [Hyperparameters](#hyperparameters)
 * [Updating](#updating)
 
 ## Data
