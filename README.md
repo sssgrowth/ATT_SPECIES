@@ -16,7 +16,7 @@ This project contains the experimental datasets. This is a preview version of th
 
 ## Data
 ### v0.3
-[Download](https://pan.baidu.com/s/1PY-_mxds7A_HoyWysjsxlA). This version of data will be accessed by an api for convenient query and management. Currently, the abstract and full-text datasets have been uploaded to the Baidu Yun for temporary management. It includes the following files:
+[Download](https://pan.baidu.com/s/163Ferpz9ZCvcQgRXTRQSqw). Code: f5ic This version of data will be accessed by an api for convenient query and management. Currently, the abstract and full-text datasets have been uploaded to the Baidu Yun for temporary management. It includes the following files:
 
 + Whole corpus datasets
 	+ abstract (train/dev/test set), full-text (train/dev/test set)
