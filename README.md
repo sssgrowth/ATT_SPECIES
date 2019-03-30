@@ -1,8 +1,6 @@
 ## SpeciesExplorer ([Project Tutorial](https://sssgrowth.github.io/SPECIESEXPLORER/))
 
-
-#### As long as this paper is accepted, this toolkit can be downloaded.
-SpeciesExplorer is a toolkit designed for species resarch in the biomedical area. This is a preview version of the tutorial. The detailed descriptions are still in the making.
+This project contains the experimental datasets. This is a preview version of the tutorial. The detailed descriptions are still in the making.
 
 ### Contents
 
