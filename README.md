@@ -1,6 +1,6 @@
 ## SpeciesExplorer ([Project Tutorial](https://sssgrowth.github.io/SPECIESEXPLORER/))
-
-This project contains the experimental datasets. This is a preview version of the tutorial. The detailed descriptions are still in the making.
+### +Updating...+
+This project contains the experimental datasets and codes. This is a preview version of the tutorial. The detailed descriptions are still in the making.
 
 ### Contents
 
@@ -12,6 +12,13 @@ This project contains the experimental datasets. This is a preview version of th
 * [Updating](#updating)
 
 ## Data
+### v0.4
+[Download]
++ Experimental datasets
+	+ PubMed Mention (train/dev/test set)
+	+ PubMed Semantics (train/dev/test set)
+	+ PMC (train/dev/test set)
+
 ### v0.3
 [Download](https://pan.baidu.com/s/163Ferpz9ZCvcQgRXTRQSqw). Code: f5ic This version of data will be accessed by an api for convenient query and management. Currently, the abstract and full-text datasets have been uploaded to the Baidu Yun for temporary management. It includes the following files:
 
@@ -54,7 +61,10 @@ PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)
  
 
 ## Updating...
+* 2019-DEC-20, SpecExplorer v0.6, enhance the result analysis. Strengthen knowledge mining to help resolve human problems. Using knowledge from other species helps address major health problems of humans. Introduce the biomedical ontologies, gene terms, bioNLP, etc. Works toward semi-automated species mining and analysis.    
+* 2019-DEC-01, SpecExplorer v0.5, resample and redivide the datasets. Update the glossary with NCBI Taxonomy. Propose a new symbol *SPECIES* to mask species mentions. Hide more complete speices mentions.  
+* 2019-Oct-01, update the name to SpecExolorer. Apply BERT to species classification task. Create two versions of dataset. Update the glossary and manually check and refine the labels of some samples in PubMed and PMC datasets v0.4.  
+* 2019-Mar-29, propose sequence-to-sequence classification model. Formulate the species classification task. Update the glossary and manually check and refine the labels of some samples in PubMed and PMC datasets v0.3. Summarize and upgrade the standard of semantic-based annotation.  
+* 2018-Nov-03, summarize the tasks of extracting explicit mentions of species and the task of species inferences. Update the glossary and manually check and refine the labels of some samples in PubMed and PMC datasets v0.2.  
+* 2018-Aug-26, build SpeciesExplorer for mining the biomedical literature from a species perspective to help resolve problems of humans. Create the PubMed and PMC datasets v0.1, initial version.  
 
-* 2018-Aug-26, Abstract and Full-text dataest v0.1, initial version
-* 2018-Nov-03, Abstract and Full-text dataest v0.2, refine some labels
-* 2019-Mar-29, Abstract and Full-text dataest v0.3, refine some labels
