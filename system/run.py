@@ -142,7 +142,7 @@ for i in range(args.epoch):
 		if args.run_mode=='train':
 			instance=load_data.convert_pubmed(s)
 			model.optimizer.zero_grad()
-			model.build(instance)
+			model(instance)
 			loss=model.loss
 			loss.backward()
 			model.optimizer.step()
