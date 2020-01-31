@@ -1,4 +1,5 @@
 ## SpeciesExplorer ([Project Tutorial](https://sssgrowth.github.io/SPECIESEXPLORER/))
+#### As long as this paper is accepted, this project is publicly available. 
 ### +Updating...+
 This project contains the experimental datasets and codes. This is a preview version of the tutorial. The detailed descriptions are still in the making.
 
