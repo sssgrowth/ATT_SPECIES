@@ -77,5 +77,5 @@ PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)
 * 2019-Oct-01, update the name to SpecExolorer. Apply BERT to species classification task. Create two versions of dataset. Update the glossary and manually check and refine the labels of some samples in PubMed and PMC datasets v0.4.  
 * 2019-Mar-29, propose sequence-to-sequence classification model. Formulate the species classification task. Update the glossary and manually check and refine the labels of some samples in PubMed and PMC datasets v0.3. Summarize and upgrade the standard of semantic-based annotation.  
 * 2018-Nov-03, summarize the tasks of extracting explicit mentions of species and the task of species inferences. Update the glossary and manually check and refine the labels of some samples in PubMed and PMC datasets v0.2.  
-* 2018-Aug-26, build SpeciesExplorer for mining the biomedical literature from a species perspective to help resolve healthcare problems of humans in Industrial Internet of Health Thing (IoHT). Create the PubMed and PMC datasets v0.1, initial version.  
+* 2018-Aug-26, build SpeciesExplorer for mining the biomedical literature from a species perspective to help resolve healthcare problems of humans. Create the PubMed and PMC datasets v0.1, initial version.  
 
