@@ -14,11 +14,13 @@ This project contains the experimental datasets and codes. This is a preview ver
 
 ## Data
 ### v0.6
-[Download]
+[Download](https://drive.google.com/drive/folders/1I34zw3ZMB7d1AQrKTDdwJ0TndU85BVwl?usp=sharing) on Google drive.
 + Experimental datasets
 	+ PubMed Mention (train/dev/test set)
 	+ PubMed Semantics (train/dev/test set)
 	+ PMC (train/dev/test set)
+The entire corpus will be organized and released soon.[Download]()
+
 ### v0.4
 [Download]
 + Experimental datasets
