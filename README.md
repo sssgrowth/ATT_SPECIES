@@ -16,18 +16,19 @@ This project contains the experimental datasets and codes. This is a preview ver
 ### v0.6
 [Download](https://drive.google.com/drive/folders/1I34zw3ZMB7d1AQrKTDdwJ0TndU85BVwl?usp=sharing) on Google drive.
 + Experimental datasets
-	+ PubMed Mention (train/dev/test set)
-	+ PubMed Semantics (train/dev/test set)
-	+ PMC (train/dev/test set)
+	+ PMC Mention Mention (train/dev/test set)
+	+ PMC Semantics (train/dev/test set)
+	+ PubMed (train/dev/test set)
 
 The entire corpus will be organized and released soon.[Download]()
 
 ### v0.4
 [Download]
 + Experimental datasets
-	+ PubMed Mention (train/dev/test set)
-	+ PubMed Semantics (train/dev/test set)
-	+ PMC (train/dev/test set)
+	+ PMC Mention Mention (train/dev/test set)
+	+ PMC Semantics (train/dev/test set)
+	+ PubMed (train/dev/test set)
+
 
 ### v0.3
 [Download](https://pan.baidu.com/s/163Ferpz9ZCvcQgRXTRQSqw). Code: f5ic This version of data will be accessed by an api for convenient query and management. Currently, the abstract and full-text datasets have been uploaded to the Baidu Yun for temporary management. It includes the following files:
