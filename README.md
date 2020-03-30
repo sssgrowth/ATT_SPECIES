@@ -1,7 +1,6 @@
 ## SpeciesExplorer ([Project Tutorial](https://sssgrowth.github.io/SPECIESEXPLORER/))
-#### As long as this paper is accepted, this project is publicly available. 
-### +Updating...+
-This project contains the experimental datasets and codes. This is a preview version of the tutorial. The detailed descriptions are still in the making.
+### + Updating... +
+This project contains the experimental datasets and codes. This is a preview version of the tutorial. The detailed descriptions are still in the making. 
 
 ### Contents
 
@@ -72,6 +71,8 @@ PubMed [literature](https://www.ncbi.nlm.nih.gov/pubmed/)
  
 
 ## Updating...
+* 2020-Mar-20, SpecExplorer v0.7, refactoring the code 
+
 * 2019-Dec-20, SpecExplorer v0.6, enhance the result analysis. Work toward semi-automated species mining, knowledge transfer and data analysis. Strengthen knowledge mining to help resolve human healthcare problems. Introduce the biomedical ontologies, gene terms, bioNLP, etc.    
 * 2019-Dec-01, SpecExplorer v0.5, resample and redivide the datasets. Update the glossary with NCBI Taxonomy. Propose a new symbol \*SPECIES\* to mask species mentions. Hide more complete speices mentions.  
 * 2019-Oct-01, update the name to SpecExolorer. Apply BERT to species classification task. Create two versions of dataset. Update the glossary and manually check and refine the labels of some samples in PubMed and PMC datasets v0.4.  
