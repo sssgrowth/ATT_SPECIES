@@ -5,6 +5,9 @@ This project contains the experimental datasets and codes. This is a preview ver
 ### Contents
 
 * [Data](#data)
+  * [v0.6](#v0.6)
+  * [v0.5](#v0.5)
+  * [v0.4](#v0.4)
   * [v0.3](#v0.3)
   * [v0.2](#v0.2)
   * [v0.1](#v0.1)
@@ -20,6 +23,13 @@ This project contains the experimental datasets and codes. This is a preview ver
 	+ PubMed (train/dev/test set)
 
 The entire corpus will be organized and released soon.[Download]()
+
+### v0.5
+[Download]
++ Experimental datasets
+	+ PMC Mention Mention (train/dev/test set)
+	+ PMC Semantics (train/dev/test set)
+	+ PubMed (train/dev/test set)
 
 ### v0.4
 [Download]
